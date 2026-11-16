@@ -118,6 +118,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
 | File (`src/assets/sounds/`) | Used for | Creator / source | License |
 | :--- | :--- | :--- | :--- |
 | `alarm-new.wav` | End-of-phase alarm and auto-start chime | pending | pending |
+| `bubble-pop.wav` | Speech bubble pop (Settings → Bubble Sounds) | pending | pending |
 | `bgm-brown-noise.mp3` | Background ambience | pending | pending |
 | `click-button.mp3` | Interface button clicks | pending | pending |
 | `click-titlebar-button.mp3` | Title-bar button clicks | pending | pending |
