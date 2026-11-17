@@ -66,7 +66,7 @@ The other files in each release (`latest*.yml`, `.blockmap`, `.zip`) are used by
 
 Open **Settings → Check for Updates**:
 - **Windows and Linux AppImage:** the update downloads inside the app; click **Restart & Update**.
-- **macOS and Linux `.deb`:** a **Download** button takes you to the newest release; install it over the old version. Your stats are kept.
+- **macOS and Linux `.deb`:** a **Download** button opens the [Pawse website](https://trypawse.vercel.app), which offers the right installer; install it over the old version. Your stats are kept.
 
 ---
 
